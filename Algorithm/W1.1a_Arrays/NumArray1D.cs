@@ -31,26 +31,15 @@ public class NumArray1D<T> : Array1D<T>, INumArray1D<T> where T : IComparable<T>
         T? result = default;
         bool HasValue = false;
 
-        for(int i = 0; i < Length; i ++)
+        if(IgnoreZeros)
         {
-            if(_data[i].Equals(0) && IgnoreZeros)
-            {
-                continue;
-            }
-            else
-            {
-                if(HasValue)
-                {
-                    result = _data[i] * result;
-                }
-                else
-                {
-                    result = _data[i];
-                    HasValue = true;
-                }
-            }
+            return Aggregate((x, y) => {
+                if (x.Equals(default)) return y;
+                if (y.Equals(default)) return x;
+                return x * y;
+            });
         }
-        return result;
+        return Aggregate((x, y) => {return x * y;});
     }
 
     public T? Sum()
