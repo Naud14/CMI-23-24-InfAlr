@@ -1,0 +1,15 @@
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/bin/Debug/net7.0/W1.1a_Arrays
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/bin/Debug/net7.0/W1.1a_Arrays.deps.json
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/bin/Debug/net7.0/W1.1a_Arrays.runtimeconfig.json
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/bin/Debug/net7.0/W1.1a_Arrays.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/bin/Debug/net7.0/W1.1a_Arrays.pdb
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/Debug/net7.0/W1.1a_Arrays.csproj.AssemblyReference.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/Debug/net7.0/W1.1a_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/Debug/net7.0/W1.1a_Arrays.AssemblyInfoInputs.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/Debug/net7.0/W1.1a_Arrays.AssemblyInfo.cs
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/Debug/net7.0/W1.1a_Arrays.csproj.CoreCompileInputs.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/Debug/net7.0/W1.1a_Arrays.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/Debug/net7.0/refint/W1.1a_Arrays.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/Debug/net7.0/W1.1a_Arrays.pdb
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/Debug/net7.0/W1.1a_Arrays.genruntimeconfig.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/Debug/net7.0/ref/W1.1a_Arrays.dll
