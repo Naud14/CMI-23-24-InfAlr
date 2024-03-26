@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/W1.1b_MultiDimensional_Jagged_Arrays.csproj": {}
+    "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/W1.2_Search_Algorithms.csproj": {}
   },
   "projects": {
-    "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/W1.1b_MultiDimensional_Jagged_Arrays.csproj": {
+    "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/W1.2_Search_Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/W1.1b_MultiDimensional_Jagged_Arrays.csproj",
-        "projectName": "W1.1b_MultiDimensional_Jagged_Arrays",
-        "projectPath": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/W1.1b_MultiDimensional_Jagged_Arrays.csproj",
+        "projectUniqueName": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/W1.2_Search_Algorithms.csproj",
+        "projectName": "W1.2_Search_Algorithms",
+        "projectPath": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/W1.2_Search_Algorithms.csproj",
         "packagesPath": "/Users/nauddrost/.nuget/packages/",
-        "outputPath": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/",
+        "outputPath": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nauddrost/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithm", "Algorithm", "{FC32DE95-7C1F-429D-A238-8A992A93B952}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1.1b_MultiDimensional_Jagged_Arrays", "Algorithm\W1.1b_MultiDimensional_Jagged_Arrays\W1.1b_MultiDimensional_Jagged_Arrays.csproj", "{3F4DB3A5-B708-47FB-92AC-A43B35AA8E02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1.1a_Arrays", "Algorithm\W1.1a_Arrays\W1.1a_Arrays.csproj", "{3F78D0B0-DEF8-4B36-8825-B509A7ED55F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F4DB3A5-B708-47FB-92AC-A43B35AA8E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4DB3A5-B708-47FB-92AC-A43B35AA8E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4DB3A5-B708-47FB-92AC-A43B35AA8E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4DB3A5-B708-47FB-92AC-A43B35AA8E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F78D0B0-DEF8-4B36-8825-B509A7ED55F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F78D0B0-DEF8-4B36-8825-B509A7ED55F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F78D0B0-DEF8-4B36-8825-B509A7ED55F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F78D0B0-DEF8-4B36-8825-B509A7ED55F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3F4DB3A5-B708-47FB-92AC-A43B35AA8E02} = {FC32DE95-7C1F-429D-A238-8A992A93B952}
+		{3F78D0B0-DEF8-4B36-8825-B509A7ED55F2} = {FC32DE95-7C1F-429D-A238-8A992A93B952}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C196317-A4A4-49DD-8C00-CCE45C8977F6}
+	EndGlobalSection
+EndGlobal

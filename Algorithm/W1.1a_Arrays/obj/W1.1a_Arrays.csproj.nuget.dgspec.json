@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nauddrost/Desktop/INF/Y2H1/Algorithm/W1.1a_Arrays/W1.1a_Arrays.csproj": {}
+    "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/W1.1a_Arrays.csproj": {}
   },
   "projects": {
-    "/Users/nauddrost/Desktop/INF/Y2H1/Algorithm/W1.1a_Arrays/W1.1a_Arrays.csproj": {
+    "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/W1.1a_Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nauddrost/Desktop/INF/Y2H1/Algorithm/W1.1a_Arrays/W1.1a_Arrays.csproj",
+        "projectUniqueName": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/W1.1a_Arrays.csproj",
         "projectName": "W1.1a_Arrays",
-        "projectPath": "/Users/nauddrost/Desktop/INF/Y2H1/Algorithm/W1.1a_Arrays/W1.1a_Arrays.csproj",
+        "projectPath": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/W1.1a_Arrays.csproj",
         "packagesPath": "/Users/nauddrost/.nuget/packages/",
-        "outputPath": "/Users/nauddrost/Desktop/INF/Y2H1/Algorithm/W1.1a_Arrays/obj/",
+        "outputPath": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nauddrost/.nuget/NuGet/NuGet.Config"

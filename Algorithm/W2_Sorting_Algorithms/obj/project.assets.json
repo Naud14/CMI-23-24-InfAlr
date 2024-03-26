@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/W1.1a_Arrays.csproj",
-      "projectName": "W1.1a_Arrays",
-      "projectPath": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/W1.1a_Arrays.csproj",
+      "projectUniqueName": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/W2_Sorting_Algorithms.csproj",
+      "projectName": "W2_Sorting_Algorithms",
+      "projectPath": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/W2_Sorting_Algorithms.csproj",
       "packagesPath": "/Users/nauddrost/.nuget/packages/",
-      "outputPath": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1a_Arrays/obj/",
+      "outputPath": "/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nauddrost/.nuget/NuGet/NuGet.Config"
