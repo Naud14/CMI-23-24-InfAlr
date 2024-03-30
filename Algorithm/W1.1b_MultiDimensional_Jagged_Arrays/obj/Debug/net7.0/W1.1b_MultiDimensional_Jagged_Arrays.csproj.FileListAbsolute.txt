@@ -1,0 +1,15 @@
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/bin/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/bin/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.deps.json
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/bin/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.runtimeconfig.json
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/bin/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/bin/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.pdb
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.csproj.AssemblyReference.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.AssemblyInfoInputs.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.AssemblyInfo.cs
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.csproj.CoreCompileInputs.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/Debug/net7.0/refint/W1.1b_MultiDimensional_Jagged_Arrays.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.pdb
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/Debug/net7.0/W1.1b_MultiDimensional_Jagged_Arrays.genruntimeconfig.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.1b_MultiDimensional_Jagged_Arrays/obj/Debug/net7.0/ref/W1.1b_MultiDimensional_Jagged_Arrays.dll

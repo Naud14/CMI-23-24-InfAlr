@@ -1,0 +1,15 @@
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/bin/Debug/net7.0/W2_Sorting_Algorithms
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/bin/Debug/net7.0/W2_Sorting_Algorithms.deps.json
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/bin/Debug/net7.0/W2_Sorting_Algorithms.runtimeconfig.json
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/bin/Debug/net7.0/W2_Sorting_Algorithms.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/bin/Debug/net7.0/W2_Sorting_Algorithms.pdb
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/Debug/net7.0/W2_Sorting_Algorithms.csproj.AssemblyReference.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/Debug/net7.0/W2_Sorting_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/Debug/net7.0/W2_Sorting_Algorithms.AssemblyInfoInputs.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/Debug/net7.0/W2_Sorting_Algorithms.AssemblyInfo.cs
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/Debug/net7.0/W2_Sorting_Algorithms.csproj.CoreCompileInputs.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/Debug/net7.0/W2_Sorting_Algorithms.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/Debug/net7.0/refint/W2_Sorting_Algorithms.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/Debug/net7.0/W2_Sorting_Algorithms.pdb
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/Debug/net7.0/W2_Sorting_Algorithms.genruntimeconfig.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W2_Sorting_Algorithms/obj/Debug/net7.0/ref/W2_Sorting_Algorithms.dll
