@@ -1,0 +1,15 @@
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/bin/Debug/net7.0/W1.2_Search_Algorithms
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/bin/Debug/net7.0/W1.2_Search_Algorithms.deps.json
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/bin/Debug/net7.0/W1.2_Search_Algorithms.runtimeconfig.json
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/bin/Debug/net7.0/W1.2_Search_Algorithms.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/bin/Debug/net7.0/W1.2_Search_Algorithms.pdb
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/Debug/net7.0/W1.2_Search_Algorithms.csproj.AssemblyReference.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/Debug/net7.0/W1.2_Search_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/Debug/net7.0/W1.2_Search_Algorithms.AssemblyInfoInputs.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/Debug/net7.0/W1.2_Search_Algorithms.AssemblyInfo.cs
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/Debug/net7.0/W1.2_Search_Algorithms.csproj.CoreCompileInputs.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/Debug/net7.0/W1.2_Search_Algorithms.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/Debug/net7.0/refint/W1.2_Search_Algorithms.dll
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/Debug/net7.0/W1.2_Search_Algorithms.pdb
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/Debug/net7.0/W1.2_Search_Algorithms.genruntimeconfig.cache
+/Users/nauddrost/Documents/WorkShopRep/CMI-23-24-InfAlr/Algorithm/W1.2_Search_Algorithms/obj/Debug/net7.0/ref/W1.2_Search_Algorithms.dll
