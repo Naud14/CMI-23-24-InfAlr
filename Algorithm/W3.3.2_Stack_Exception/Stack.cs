@@ -25,6 +25,15 @@ public class Stack<T> : SimpleStack<T>
         }
         base.Push(item);
     }
+    public override T Peek()
+    {
+        // method Pop and Peek generate a StackEmptyException when the methods are called on an empty Stack.
+        if(IsEmpty()) throw new StackEmptyException("The Stack is empty.");
+        else
+        {
+            return base.Peek();
+        }
+    }
 
     public override T Pop()
     {
@@ -36,13 +45,4 @@ public class Stack<T> : SimpleStack<T>
         }
     }
 
-    public override T Peek()
-    {
-        // method Pop and Peek generate a StackEmptyException when the methods are called on an empty Stack.
-        if(IsEmpty()) throw new StackEmptyException("The Stack is empty.");
-        else
-        {
-            return base.Peek();
-        }
-    }
 }
