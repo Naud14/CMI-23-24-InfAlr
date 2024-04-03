@@ -17,7 +17,7 @@ public class SinglyLinkedList<T> : ILinkedList<T> where T : IComparable<T>
 
     public void AddFirst(T value)
     {
-        Head = new SingleNode<T>(value, null);
+        Head = new SingleNode<T>(value, Head);
         count ++;
     }
 
